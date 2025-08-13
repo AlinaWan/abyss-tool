@@ -1,9 +1,16 @@
-# Abyss Tool
-
 <div align="center">
-  <img src="https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge" alt="Open Collective Backers and Sponsors" />
-  <img src="https://img.shields.io/discord/1387936657239703648?label=Dig%20Tool%20Discord&style=for-the-badge&logo=discord" alt="Dig Tool Discord Community" />
+  <h1>Abyss Tool</h1>
 </div>
+
+<p align="center">
+  <a href="https://opencollective.com/abyss-tool">
+    <img src="https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge" alt="Backers & Sponsors" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/PeZUesBJGX">
+    <img src="https://img.shields.io/discord/1387936657239703648?label=Discord&style=for-the-badge&logo=discord" alt="Discord Community" />
+  </a>
+</p>
 
 > **Abyss Tool** is a next-generation macro system for an upcoming Roblox game. It's designed to automate complex and repetitive tasks through a clean, intuitive interface, freeing players to focus on the most engaging aspects of the game.
 
