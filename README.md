@@ -39,7 +39,7 @@ There is no functional or playable version available yet. All development will b
 
 https://github.com/user-attachments/assets/f233f95b-b564-4c08-9c4c-8171421ad815
 
-<sup>MFish detection using YOLOv12</sup>
+<sup>Fish detection using YOLOv12</sup>
 
 ---
 
