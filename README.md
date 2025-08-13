@@ -9,11 +9,7 @@
 
 <p align="center">
   <a href="https://opencollective.com/abyss-tool">
-    <img src="https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge" alt="Total Funds" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://opencollective.com/abyss-tool">
-    <img src="https://img.shields.io/opencollective/backers/abyss-tool.svg?style=for-the-badge" alt="Backers" />
+    <img src="https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge" alt="Backers & Sponsors" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/PeZUesBJGX">
