@@ -11,8 +11,13 @@
   <a href="https://opencollective.com/abyss-tool">
     <img src="https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge" alt="Total Funds" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://opencollective.com/abyss-tool">
     <img src="https://img.shields.io/opencollective/backers/abyss-tool.svg?style=for-the-badge" alt="Backers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/PeZUesBJGX">
+    <img src="https://img.shields.io/discord/1387936657239703648?label=Dig%20Tool%20Discord&style=for-the-badge&logo=discord" alt="Dig Tool Discord Community" />
   </a>
 </p>
 
@@ -50,6 +55,20 @@ https://github.com/user-attachments/assets/f233f95b-b564-4c08-9c4c-8171421ad815
 | **Stage 3 — Advanced Detection & Customization** | TBD | Fully trained detection models, custom macro profiles, keybind editor. |
 | **Stage 4 — Public Beta** | TBD | Feature-complete beta build for backers. |
 | **Stage 5 — Stable Release** | TBD | Polished release with documentation and installer. |
+
+### 💰 Stage 1 — Design & Planning Budget
+
+The funds raised in Stage 1 will cover pre-development work, including contractor support and Roboflow subscription. Transparency is our priority — all spending will be publicly tracked.
+
+| Category | Estimated Cost | Notes |
+|----------|----------------|-------|
+| **Contractors** | CA$300+fees | For architecture, UI/UX mockups, and ML guidance. |
+| **Roboflow Basic Subscription** | US$65/month | Covers model training and hosting for object detection features. |
+| **Documentation / Legal Fees** | $0 | Handled in-house using templates for disclaimers, licensing, and contracts. |
+| **Miscellaneous / Contingency** | CA$50 | Minor revisions or unexpected expenses. |
+| **Total Estimated Budget** | ~CA$400–CA$450 + US$65 | Covers all Stage 1 activities while minimizing costs. |
+
+> *All expenses will be publicly tracked, giving backers full visibility into spending through Open Collective.*
 
 ---
 
