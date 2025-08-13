@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/PeZUesBJGX">
-    <img src="https://img.shields.io/discord/1387936657239703648?label=Discord&style=for-the-badge&logo=discord" alt="Discord Community" />
+    <img src="https://img.shields.io/discord/1387936657239703648?label=Dig%20Tool%20Discord&style=for-the-badge&logo=discord" alt="Dig Tool Discord Community" />
   </a>
 </p>
 
