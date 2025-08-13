@@ -1,78 +1,85 @@
+# Abyss Tool
+
 <div align="center">
-  <h1>Abyss Tool</h1>
+  <img src="https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge" alt="Open Collective Backers and Sponsors" />
+  <img src="https://img.shields.io/discord/1387936657239703648?label=Dig%20Tool%20Discord&style=for-the-badge&logo=discord" alt="Dig Tool Discord Community" />
 </div>
 
-> [!NOTE]
-> Abyss Tool is an upcoming advanced macro system for an upcoming Roblox game, built to automate complex and repetitive in-game tasks through a clean, intuitive interface.
+> **Abyss Tool** is a next-generation macro system for an upcoming Roblox game. It's designed to automate complex and repetitive tasks through a clean, intuitive interface, freeing players to focus on the most engaging aspects of the game.
 
 ---
 
-<p align="center">
-  <a href="https://opencollective.com/abyss-tool">
-    <img src="https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge" alt="Backers & Sponsors" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/PeZUesBJGX">
-    <img src="https://img.shields.io/discord/1387936657239703648?label=Dig%20Tool%20Discord&style=for-the-badge&logo=discord" alt="Dig Tool Discord Community" />
-  </a>
-</p>
+## 🚀 Our Vision
 
-## 🚀 Vision
+We are building Abyss Tool from the ground up to help players save time, reduce repetitive strain, and enhance their overall gameplay experience. Our core principles are:
 
-Abyss Tool is being designed from the ground up to help players save time, reduce repetitive input fatigue, and focus on the parts of gameplay that matter most.  
-
-We aim to deliver a tool that is:
-- **User-friendly** — no steep learning curve.
-- **Highly customizable** — adapt it to your personal playstyle.
-- **Efficient and reliable** — optimized to work seamlessly with the target game.
+* **User-Friendly:** A simple interface with no steep learning curve.
+* **Highly Customizable:** Easily adapt the tool to your personal playstyle and specific needs.
+* **Efficient and Reliable:** Optimized for seamless performance with the target game.
 
 ---
 
-## 📅 Current Status
+## 🗓️ Current Status
 
-We are in the **pre-development** stage:
-- Feature set planning
-- Interface mockups
-- Automation logic design
-- Training initial detection models with **Roboflow**
+We are currently in the **pre-development** phase. This stage is focused on laying a strong foundation for the project. Our current activities include:
 
-No playable or functional version is available yet. All development will take place **in public** on this repository so backers can follow along.
+* **Feature Planning:** Defining the complete set of functionalities for the tool.
+* **Interface Mockups:** Designing a clean and intuitive user experience.
+* **Logic Design:** Creating the architecture for the core automation engine.
+* **ML Training:** Developing initial object detection models using **Roboflow**.
+
+There is no functional or playable version available yet. All development will be conducted transparently and in public on this repository.
 
 https://github.com/user-attachments/assets/f233f95b-b564-4c08-9c4c-8171421ad815
 
----
-
-## 📍 Roadmap
-
-| Milestone | Target Deadline | Description |
-|-----------|--------------|-------------|
-| **Stage 1 — Design & Planning** | Q1 2026 | Feature list, architecture design, UI mockups. |
-| **Stage 2 — Core Macro Engine** | TBD | Input automation logic, baseline detection model, minimal UI. |
-| **Stage 3 — Advanced Detection & Customization** | TBD | Fully trained detection models, custom macro profiles, keybind editor. |
-| **Stage 4 — Public Beta** | TBD | Feature-complete beta build for backers. |
-| **Stage 5 — Stable Release** | TBD | Polished release with documentation and installer. |
-
-### 💰 Stage 1 — Design & Planning Budget
-
-The funds raised in Stage 1 will cover pre-development work, including contractor support and Roboflow subscription. Transparency is our priority — all spending will be publicly tracked.
-
-| Category | Estimated Cost | Notes |
-|----------|----------------|-------|
-| **Contractors** | CA$300+fees | For architecture, UI/UX mockups, and ML guidance. |
-| **Roboflow Basic Subscription** | US$65/month | Covers model training and hosting for object detection features. |
-| **Documentation / Legal Fees** | $0 | Handled in-house using templates for disclaimers, licensing, and contracts. |
-| **Miscellaneous / Contingency** | CA$50 | Minor revisions or unexpected expenses. |
-| **Total Estimated Budget** | ~CA$400–CA$450 + US$65 | Covers all Stage 1 activities while minimizing costs. |
-
-> *All expenses will be publicly tracked, giving backers full visibility into spending through Open Collective.*
+<sup>MFish detection using YOLOv12</sup>
 
 ---
 
-## 💡 Why Crowdfunding?
+## 🗺️ Roadmap
 
-Building Abyss Tool to the standard we envision requires:
-- **Roboflow model processing & hosting costs** — for advanced in-game object detection.
-- **Contractor contributions** — specialized coding, UI/UX design, and testing.
-- Development infrastructure & tooling.
+| Milestone                      | Target Deadline | Description                                                                                    |
+| ------------------------------ | --------------- | ---------------------------------------------------------------------------------------------- |
+| **Stage 1: Design & Planning** | Q1 2026         | Finalize the feature list, architecture design, and UI mockups.                                |
+| **Stage 2: Core Macro Engine** | TBD             | Develop the input automation logic, a baseline detection model, and a minimal UI.              |
+| **Stage 3: Advanced Features** | TBD             | Integrate fully trained detection models, a custom macro profile system, and a keybind editor. |
+| **Stage 4: Public Beta**       | TBD             | Release a feature-complete beta build for our backers.                                         |
+| **Stage 5: Stable Release**    | TBD             | Launch the polished, final version with comprehensive documentation.                           |
 
-Your contributions help ensure Abyss Tool launches polished, stable, and on time.
+---
+
+### Stage 1 Budget Breakdown
+
+Our crowdfunding goal for Stage 1 will cover **only pre-development expenses** that can be handled without external contractors, with full financial transparency through Open Collective.
+
+| Category                  | Estimated Cost        | Notes                                                                                  |
+| ------------------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| **Roboflow Basic**        | US\$65/month          | Covers the training and hosting costs for our object detection models during planning. |
+| **Legal & Documentation** | \$0                   | Handled in-house using standardized templates.                                         |
+| **Contingency**           | CA\$50                | A buffer for minor revisions or unforeseen expenses.                                   |
+| **Total**                 | **\~CA\$50 + US\$65** | Our total estimated budget to complete Stage 1 without contractor work.                |
+
+---
+
+### Stage 2 Budget Breakdown
+
+This stage includes the actual development of the core macro engine, baseline detection model, and minimal UI.
+
+| Category           | Estimated Cost                 | Notes                                                                |
+| ------------------ | ------------------------------ | -------------------------------------------------------------------- |
+| **Contractors**    | CA\$300 + fees                 | Specialized support for automation logic, UI/UX, and ML model setup. |
+| **Roboflow Basic** | US\$65/month                   | Continues to cover training and hosting for detection models.        |
+| **Contingency**    | CA\$50                         | To handle small scope changes or quick fixes.                        |
+| **Total**          | **\~CA\$350–CA\$400 + US\$65** | Estimated budget to complete Stage 2 development.                    |
+
+---
+
+## 💖 Why Crowdfund?
+
+Building Abyss Tool to a high standard requires funding for specialized resources:
+
+* **Roboflow:** For advanced, in-game object detection model training and hosting.
+* **Expert Contractors:** To assist with complex coding, UI/UX design, and quality assurance.
+* **Development Infrastructure:** Essential tools and services to support the project.
+
+Your support ensures Abyss Tool launches with the polish, stability, and advanced features you expect.
