@@ -76,8 +76,9 @@ This stage includes the actual development of the core macro engine, baseline de
 | ------------------ | ------------------------------ | -------------------------------------------------------------------- |
 | **Contractors**    | CA\$300 + fees                 | Specialized support for automation logic, UI/UX, and ML model setup. |
 | **Roboflow Basic** | US\$65/month                   | Continues to cover training and hosting for detection models.        |
+| **Legal Counsel**  | CA\$50–CA\$100+ fees           | Review contracts, IP assignment, and crowdfunding terms.             |
 | **Contingency**    | CA\$50                         | To handle small scope changes or quick fixes.                        |
-| **Total**          | **\~CA\$350–CA\$400 + US\$65** | Estimated budget to complete Stage 2 development.                    |
+| **Total**          | **\~CA\$400–CA\$450 + US\$65** | Estimated budget to complete Stage 2 development.                    |
 
 ---
 
