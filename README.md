@@ -110,6 +110,22 @@ All funds are planned to be tracked transparently through [Open Collective](http
 
 * Join the Abyss Tool discussion in the [Dig Tool Discord](https://discord.gg/PeZUesBJGX) to suggest features, participate in testing, or give feedback.  
 * Contribute ideas, code, or testing feedback via our [GitHub repository](https://github.com/Xelvanta-Group/abyss-tool).  
-* Support the project financially through [Open Collective](https://opencollective.com/abyss-tool).  
+* Support the project financially through [Open Collective](https://opencollective.com/abyss-tool).
+
+---
+
+## 🌟 Influencers & Microinfluencers
+
+Are you a **content creator, streamer, or Roblox influencer**? Abyss Tool is **looking for collaborators** to showcase early features, beta test, and engage with the community. By partnering with us, you can:
+
+* Gain **early access** to the tool and unique features
+* Create content around **cutting-edge automation technology**
+* Receive recognition and support from the **Abyss Tool community**
+
+**Interested? Reach out to us directly via:**
+* 📧 **Email:** [Xelvanta@proton.me](mailto:Xelvanta@proton.me)
+* 💬 **Discord:** Join the [Dig Tool Community](https://discord.gg/PeZUesBJGX) and DM `@riri.py`.
+
+We welcome **microinfluencers and creators of all sizes**—your content and feedback can help shape the future of Abyss Tool!
 
 > Abyss Tool is **community-driven**: your feedback, testing, and ideas directly shape development.
